@@ -1,0 +1,1 @@
+{"name": "doric", "system": "LEDFLS_595", "arduino": true, "verbose": true, "port": "COM9", "pin_defs": ["d:3:o", "a:5:i"], "nChannels": 1, "wavelength": 595, "minCurrent": 18, "maxCurrent": 1000, "currPerVolt": 400}
