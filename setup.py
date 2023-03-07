@@ -1,9 +1,7 @@
 from setuptools import setup, find_packages
 
 install_reqs = [
-    'json',
     'numpy',
-    'os',
     'pandas',
     'pyfirmata',
     'serial'

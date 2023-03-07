@@ -1,10 +1,12 @@
+name: sys2py
 channels:
     - conda-forge
+    - pip
 dependencies:
     - python >= 3.7
-    - json
     - numpy
-    - os
     - pandas
+    - pip
     - pyfirmata
-    - serial
+    - pip:
+          - serial
